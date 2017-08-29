@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <employee empid="1" name="abc" /> 
+  <employee empid="2" name="akhil" /> 
+  <employee empid="3" name="xyz" /> 
+  </company>
